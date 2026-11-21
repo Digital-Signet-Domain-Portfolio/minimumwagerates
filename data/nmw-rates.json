@@ -1,0 +1,15 @@
+[
+  { "effective_from": "2026-04-01", "label": "1 April 2026", "nlw": 12.71, "age_18_to_20": 10.85, "age_16_to_17": 8.00, "apprentice": 8.00, "accommodation_offset_daily": 11.10 },
+  { "effective_from": "2025-04-01", "label": "1 April 2025", "nlw": 12.21, "age_18_to_20": 10.00, "age_16_to_17": 7.55, "apprentice": 7.55, "accommodation_offset_daily": 10.66 },
+  { "effective_from": "2024-04-01", "label": "1 April 2024", "nlw": 11.44, "age_18_to_20": 8.60, "age_16_to_17": 6.40, "apprentice": 6.40, "accommodation_offset_daily": 9.99 },
+  { "effective_from": "2023-04-01", "label": "1 April 2023", "nlw": 10.42, "age_18_to_20": 7.49, "age_16_to_17": 5.28, "apprentice": 5.28, "accommodation_offset_daily": 9.10 },
+  { "effective_from": "2022-04-01", "label": "1 April 2022", "nlw": 9.50, "age_18_to_20": 6.83, "age_16_to_17": 4.81, "apprentice": 4.81, "accommodation_offset_daily": 8.70 },
+  { "effective_from": "2021-04-01", "label": "1 April 2021", "nlw": 8.91, "age_18_to_20": 6.56, "age_16_to_17": 4.62, "apprentice": 4.30, "accommodation_offset_daily": 8.36 },
+  { "effective_from": "2020-04-01", "label": "1 April 2020", "nlw": 8.72, "age_18_to_20": 6.45, "age_16_to_17": 4.55, "apprentice": 4.15, "accommodation_offset_daily": 8.20 },
+  { "effective_from": "2019-04-01", "label": "1 April 2019", "nlw": 8.21, "age_18_to_20": 6.15, "age_16_to_17": 4.35, "apprentice": 3.90, "accommodation_offset_daily": 7.55 },
+  { "effective_from": "2018-04-01", "label": "1 April 2018", "nlw": 7.83, "age_18_to_20": 5.90, "age_16_to_17": 4.20, "apprentice": 3.70, "accommodation_offset_daily": 7.00 },
+  { "effective_from": "2017-04-01", "label": "1 April 2017", "nlw": 7.50, "age_18_to_20": 5.60, "age_16_to_17": 4.05, "apprentice": 3.50, "accommodation_offset_daily": 6.40 },
+  { "effective_from": "2016-04-01", "label": "1 April 2016", "nlw": 7.20, "age_18_to_20": 5.30, "age_16_to_17": 3.87, "apprentice": 3.30, "accommodation_offset_daily": 5.35 },
+  { "effective_from": "2015-10-01", "label": "1 October 2015", "nlw": 0, "age_18_to_20": 5.30, "age_16_to_17": 3.87, "apprentice": 3.30, "accommodation_offset_daily": 5.35 },
+  { "effective_from": "1999-04-01", "label": "1 April 1999", "nlw": 0, "age_18_to_20": 3.00, "age_16_to_17": 0, "apprentice": 0, "accommodation_offset_daily": 0 }
+]
